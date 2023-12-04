@@ -2,7 +2,7 @@
 
 Repository for practice in Software System Development 2023
 
-## Add your original line below starting with '\* ' to be formatted as an item.
+## Add your ~~original~~ unique line below starting with '\* ' to be formatted as an item.
 
 ### Do not expose your private information because this is a public repository
 
