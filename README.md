@@ -15,4 +15,3 @@ I added this line.
 * Hi, this is Takuya. Please merge mine.
 * Salam, this is Sanaa!
 * Thank you for the class <3 !!
-* Salut,this is NABILA
