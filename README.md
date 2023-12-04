@@ -1,6 +1,9 @@
 # SSD2023
+
 Repository for practice in Software System Development 2023
-## Add your original line below starting with '* ' to be formatted as an item.
+
+## Add your original line below starting with '\* ' to be formatted as an item.
+
 ### Do not expose your private information because this is a public repository
 
 * Hi this is Hajimu!
@@ -11,3 +14,4 @@ Repository for practice in Software System Development 2023
 I added this line.
 * Hi, this is Takuya. Please merge mine.
 * Salam, this is Sanaa!
+* Thank you for the class <3 !!
