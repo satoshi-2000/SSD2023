@@ -20,4 +20,5 @@ I added this line.
 * おはようございます。ハビバです！
 * hallo class, harland here
 * Hei, jeg er Valerie Megan!
+* Hi, This is Haftamu
 
