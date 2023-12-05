@@ -19,4 +19,5 @@ I added this line.
 * Hi, This is Rahman Md Mustafizur
 * おはようございます。ハビバです！
 * hallo class, harland here
+* Hei, jeg er Valerie Megan!
 
