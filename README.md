@@ -25,3 +25,4 @@ I added this line.
 * おはようございます、マージしていただけると幸いです。
 * Greetings, this is Shiyi
 * Hello from Choonhaklai Papon 2311408. (ᵔ.ᵔ)
+* hi,I'm Hiroki Kotake.
