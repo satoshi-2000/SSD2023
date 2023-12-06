@@ -22,3 +22,4 @@ I added this line.
 * Hei, jeg er Valerie Megan!
 * Hi, This is Haftamu
 * Hello, This is Oluwatobi
+* おはようございます、マージしていただけると幸いです。
