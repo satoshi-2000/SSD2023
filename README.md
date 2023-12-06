@@ -23,4 +23,4 @@ I added this line.
 * Hi, This is Haftamu
 * Hello, This is Oluwatobi
 * おはようございます、マージしていただけると幸いです。
-* Hello from Choonhaklai Papon 2311408. (*´∀`*)
+* Hello from Choonhaklai Papon 2311408. (ᵔ.ᵔ)
