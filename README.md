@@ -9,6 +9,7 @@ Repository for practice in Software System Development 2023
 
 * Hi this is Hajimu!
 * Write something unique in one line.
+* Xin chào, my name is Nguyen Ngoc Huy - こんにちは、私はグエン・ゴック・ホイです。
 * Hi this is Seiji.
 * This is tuwaemuesa Thapakorn 2311429, Please merge mine :D
 * Hi, I'm Yuya Kawabata!
