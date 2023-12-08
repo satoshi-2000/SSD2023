@@ -36,3 +36,4 @@ I added this line.
 * Hi, This is Morikawa ;)
 * Hi, I'm Wataru Mabuchi!!
 * Hi Hi Hi!! this is Carlos!
+* Hi Hi Hi!! this is Erika!
